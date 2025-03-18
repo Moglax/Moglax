@@ -2,7 +2,7 @@
 
 ## 박정열의 README에 오신 것을 환영합니다
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyp2270)](https://solved.ac/jyp2270/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jyp2270)](https://solved.ac/jyp2270)
 
 <!--
 **Moglax/Moglax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
